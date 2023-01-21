@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "907274451669",
+    "firebase_url": "https://mess-5581e-default-rtdb.firebaseio.com",
+    "project_id": "mess-5581e",
+    "storage_bucket": "mess-5581e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907274451669:android:12732904276aea85a4405c",
+        "android_client_info": {
+          "package_name": "com.example.messin_charge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907274451669-uabosnibel89ajl3ng5ev910gq9c6bq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8ytn0HDv0gonRUkdCbtL0R5VsrfvE_C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907274451669-uabosnibel89ajl3ng5ev910gq9c6bq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
